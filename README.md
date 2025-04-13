@@ -1,3 +1,3 @@
-# Stride - Bootstrap 5 HTML template
-A simple but clean Bootstrap 5 HTML template from https://templatedeck.com
-# flight247
+# Flight247
+
+## flight247.vercel.app
